@@ -1,4 +1,4 @@
-![banner](https://github.com/Habib7442/Habib7442/blob/main/banner.png)
+![banner](https://github.com/Habib7442/Habib7442/blob/main/new_banner.png)
 
 <h1 align="center">Hey 👋 I'm Habib Tanwir</h1>
 <h3 align="center">🚀 Full Stack Developer | Building AI-powered SaaS</h3>
